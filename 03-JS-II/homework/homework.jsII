@@ -1,0 +1,30 @@
+´for´
+R= Se identifica como bucle, su funcion evalua expresiones 
+una y otra vez hasta que devuelve lo ue estamos buscando
+o se detiene depues de cierto tiempo.
+
+´for´ tiene una sintaxis unica, similiar a la instruccion
+´if´ pero mas complicada. Su estructura se forma de la
+siguiente manera; primero la palabra clae ´for´ seguido
+del parentesis y luego abrir y cerrar la llave. 
+
+ `&&`, `||`, `!`
+
+&&: El primer operador lógico que veremos es el operador 
+"Y" ("AND"). Está escrito con dos símbolos 
+(`&&`).Esto evaluará ambas expresiones y devolverá 
+verdadero si AMBAS expresiones son `true`. 
+ Si uno (o ambos) de ellos es falso, este 
+operador devolverá `false`
+
+||: El siguiente es el operador "Ó" ("OR"). Está 
+escrito con dos barras verticales (`||`). Determinará si 
+una de las expresiones es `true`. Devolverá `true` si 
+una (o ambas) de las expresiones es` true`. 
+Devolverá `false` si AMBAS expresiones son` false`
+
+!: El último operador lógico es el operador "NOT" ("NO"). 
+Está escrito como un solo signo de exclamación (`!`). 
+Vimos este operador antes al determinar la igualdad 
+(`!==`). Como antes, el operador NOT devolverá el valor
+ booleano opuesto de lo que se le pasa

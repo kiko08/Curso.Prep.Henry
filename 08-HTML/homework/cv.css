@@ -1,0 +1,21 @@
+img{
+    display: block;
+    height: auto;
+    width: auto;
+}
+#titulo{
+    text-align: center;
+}
+body{
+    font-family: sans-serif;
+    background-color: yellow;
+}
+
+#foto{
+    height: auto;
+    width: auto;
+    background: yellow;
+    padding: 50px;
+    border: 5px solid black 
+
+}
